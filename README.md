@@ -1,0 +1,2 @@
+# Incremental-dependency-calculation
+A novel methodology named as “Incremental Dominance-based Dependency Calculation” (IDDC) is presented in this code. The proposed methodology uses an incremental approach to find the dependency of datasets by scanning the data records one-by-one and comparing each record with every other record in the dataset. For comparison of records, IDDC uses a set of proposed dominance-based dependency classes.
